@@ -1,0 +1,41 @@
+4
+Client
+Shiraz Viner
+shiraz100
+1234
+Israel
+kiria
+halva
+454566
+4
+3
+Seller
+kim sasi
+kim111
+1234
+israel
+tel aviv
+moshe
+894579
+3
+45
+Seller
+Moti M
+Moti123
+1234
+israel
+eilat
+lalalend
+985479
+4
+6
+ClientSeller
+Bar Marom
+barbi
+1234
+israel
+haifa
+momo
+23244
+4
+5

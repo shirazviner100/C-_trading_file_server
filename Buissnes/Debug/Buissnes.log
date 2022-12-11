@@ -1,0 +1,4 @@
+﻿  menu.cpp
+c:\c++\buissnes\buissnes\menu.cpp(485): warning C4018: '>=': signed/unsigned mismatch
+c:\c++\buissnes\buissnes\menu.cpp(837): warning C4715: 'Menu::createOrder': not all control paths return a value
+  Buissnes.vcxproj -> C:\C++\Buissnes\Debug\Buissnes.exe
